@@ -3,4 +3,4 @@
 
 Deep Learning for Computer Vision
 
-Solution for 1-6 assigment
+Solution for 2-6 assigment
