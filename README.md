@@ -3,4 +3,4 @@
 
 Deep Learning for Computer Vision
 
-Solution for 2-6 assigment
+2019 and 2020 offerings
